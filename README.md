@@ -1,1 +1,2 @@
-# why-are-we-here
+# why are we here
+I'm learning programming not to write code myself, but to gain the ability to evaluate whether AI-generated code is reliable. When an AI-produced 3D model is placed before me, I can tell it's wrong because I understand modeling; but if an AI gives me a piece of Python code, I can't even tell whether it's correct or not. This sense of helplessness is exactly why I'm sitting in this classroom.
